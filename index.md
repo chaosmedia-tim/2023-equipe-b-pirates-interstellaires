@@ -1,11 +1,11 @@
 ---
-title: Nom du projet (À CHANGER)
+title: Pirates interstellaires
 layout: home
 ---
 
 ## Description du projet
 
-Voici une courte description du projet. Cette description devrait être une ou deux phrases.
+Le jeux Pirates interstellaires est un jeu vr avec deux joueurs dans deux espaces différents sité dans l'espace. Un joueur est dans une cabine de capitaine, dirige le bateau et donne des informations à son coéquipier sur l'emplacement des vaisseaux ennemis à l'aide d'un radar.L'autre joueur est le canonier et doit eliminer les ennemis qui arrivent en vague avec des boutons qui activent les canons de chaque coté du bateau
 
 ## Journal de création
 
