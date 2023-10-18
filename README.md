@@ -20,4 +20,4 @@ Vous devez ajouter un lien vers les jounaux sur la page "index.md".
 
 Utilisation du markdown : https://www.markdownguide.org/cheat-sheet/
 
-Ce modèle utilise le thème [minima](https://github.com/jekyll/minima)
+Ce modèle utilise le thème [hacker](https://github.com/pages-themes/hacker)
