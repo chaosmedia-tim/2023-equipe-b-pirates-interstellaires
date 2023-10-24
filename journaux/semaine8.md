@@ -25,3 +25,4 @@ Cette semaine, chercher des images références et j'ai créé l'HDRI qui va êt
 
 ## Jacob 
 Cette semaine, j'ai assigné des rôles pour les tâches, ajouter quelques tâches aussi pour les membres, j'ai modifié un peu le devis sur google docs. J'ai refait de la recherhe de sons pour assigner les sons définitivement pour le jeu, il me faut les mixer un peu sur Audition. Aussi, il me faut commencer un peu de scripts sur le projet, j'ai également donner au professeur le fichier de liste d'équipement que j'ai fait avec Mathieu, et le fichier google docs du devis (pas pdf). J'ai aussi faite un rendu des astéroïdes pour donner un meilleur aperçu de l'environnement.
+![image des astéroïdes en 3D](../medias/astéroides.png)
