@@ -9,6 +9,8 @@ Votre journal doit inclure un résumé de la semaine, vos bon coups et réussite
 
 Vous devez inclure des images, liens et autre contenu nécéssaire pour supporter vos explications et montrer l'avancement du projet.
 
+## Alex
+Cette semaine, j'ai créer une page Facebook pour notre projets. J'y ai ajouté notre logo ainsi que les liens. J'ai aussi créer une page Instagram comme 2e réseaux sociaux. La page Instagram a eu quelques problèmes. Le court suivant, la page avait été désactivé par Instagram pour une raisons qui m'est inconnue. Il y a fallu que j'envoie une demande a Instagram ect... J'ai aussi commencé a filmer la video d'avancement. Erreur de settings sur ma camera, je vais devoir stabiliser le contenu de cette semaine avec After Effect ... Les deux publications ont aussi été fait.
 
 ## Myrianne
 j'ai organiser un peu le Trello selon les tâche a faire pour le sprint 2 et divisé certaine pages et j'ai écris le script pour la vidéo.
