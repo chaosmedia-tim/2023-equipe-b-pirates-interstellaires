@@ -19,3 +19,6 @@ j'ai crée les astéroïdes pour notre jeu. Mes collèges on travaillé sur autr
 
 ## Nicolas
 Cette semaine, chercher des images références et j'ai créé l'HDRI qui va être utilisé pour le jeu (Modélsé la planète et créé les étoiles). J'ai aussi créé la maquette du bateau des ennemis. La seul difficulté que j'ai rencontré est que j'ai du refaire les texture de feuille de métal pour la coque du bateau puisque la version de Substance Designer que j'ai chez moi est plus vielle que celle sur les ordiateurs du cégep, et qu'ouvrir la version créé avec les ordi du cégep était impossible sur mon ordinateur personnel. 
+
+## Jacob 
+Cette semaine, j'ai assigné des rôles pour les tâches, ajouter quelques tâches aussi pour les membres, j'ai modifié un peu le devis sur google docs. J'ai refait de la recherhe de sons pour assigner les sons définitivement pour le jeu, il me faut les mixer un peu sur Audition. Aussi, il me faut commencer un peu de scripts sur le projet, j'ai également donner au professeur le fichier de liste d'équipement que j'ai fait avec Mathieu, et le fichier google docs du devis (pas pdf). J'ai aussi faite un rendu des astéroïdes pour donner un meilleur aperçu de l'environnement.
