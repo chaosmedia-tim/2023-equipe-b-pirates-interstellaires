@@ -14,3 +14,6 @@ Vous devez inclure des images, liens et autre contenu nécéssaire pour supporte
 j'ai organiser un peu le Trello selon les tâche a faire pour le sprint 2 et divisé certaine pages et j'ai écris le script pour la vidéo.
 j'ai crée les astéroïdes pour notre jeu. Mes collèges on travaillé sur autre tâche comme les média sociaux, le matériel a acheter ou a emprunter et les texture et matériaux des bateaux. on a discuter des matériaux que l'on va utilisé pour la scène.
 
+
+## Nicolas
+Cette semaine, chercher des images références et j'ai créé l'HDRI qui va être utilisé pour le jeu (Modélsé la planète et créé les étoiles). J'ai aussi créé la maquette du bateau des ennemis. La seul difficulté que j'ai rencontré est que j'ai du refaire les texture de feuille de métal pour la coque du bateau puisque la version de Substance Designer que j'ai chez moi est plus vielle que celle sur les ordiateurs du cégep, et qu'ouvrir la version créé avec les ordi du cégep était impossible sur mon ordinateur personnel.
