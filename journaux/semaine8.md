@@ -15,7 +15,25 @@ Cette semaine, j'ai créer une page Facebook pour notre projets. J'y ai ajouté 
 ## Myrianne
 j'ai organiser un peu le Trello selon les tâche a faire pour le sprint 2 et divisé certaine pages et j'ai écris le script pour la vidéo.
 j'ai crée les astéroïdes pour notre jeu. Mes collèges on travaillé sur autre tâche comme les média sociaux, le matériel a acheter ou a emprunter et les texture et matériaux des bateaux. on a discuter des matériaux que l'on va utilisé pour la scène.
+
 ![image des astéroïdes en 3D](../medias/asteroide.jpg)
+
+j'ai fais aussi quelque objets 3D pour la décoration du bateau comme des barries, des coffres et des poches.
+![image du coffre en 3D](../medias/coffre.png)
+Coffre faite en 3D sur blender
+
+![image du coffre en 3D](../medias/coffre_couverture.png)
+Le même coffre mais avec une toile faite avec le paramètre tissu
+
+![image du barrie en 3D](../medias/barrie.png)
+Barries faite en 3D sur blender
+
+![image du barrie avec couverture en 3D](../medias/barrie_couverture.png)
+Le même barrie mais avec une toile faite avec le paramètre tissu
+
+![image du poche en 3D](../medias/poche.png)
+Poche faite en 3D sur blender
+
 
 ## Mathieu
 Cette semaine, j'ai intégrer le bateau ennemi de Nicolas dans Unity, ainsi que ajouter les éléments préliminaire pour commencer à programmer les ennemis dans Unity. J'ai organiser toutes mes taches dans le trello pour le premier sprint. J'ai eu de la difficulté avec quelques textures à importer dans Unity, mais à part cela les préparations pour coder les ennemis s'est bien passer.
