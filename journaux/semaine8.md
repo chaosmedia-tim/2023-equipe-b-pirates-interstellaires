@@ -22,17 +22,10 @@ j'ai fais aussi quelque objets 3D pour la décoration du bateau comme des barrie
 ![image du coffre en 3D](../medias/coffre.png)
 Coffre faite en 3D sur blender
 
-![image du coffre en 3D](../medias/coffre_couverture.png)
-Le même coffre mais avec une toile faite avec le paramètre tissu
-
 ![image du barrie en 3D](../medias/barrie.png)
 Barries faite en 3D sur blender
 
-![image du barrie avec couverture en 3D](../medias/barrie_couverture.png)
-Le même barrie mais avec une toile faite avec le paramètre tissu
 
-![image du poche en 3D](../medias/poche.png)
-Poche faite en 3D sur blender
 
 
 ## Mathieu
