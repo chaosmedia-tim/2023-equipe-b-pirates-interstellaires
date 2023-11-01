@@ -26,7 +26,7 @@ Objet mise sur le bateau.
 
 Cette semaine, j'ai finalisé le système d'apparition des ennemis ainsi que leur mode de déplacement. Le système est assez flexible et permet de changer facilement le nombre d'ennemis. Il se compose de trois anneaux contenant plusieurs points d'apparition, orbite autour du bateau du joueur.
 
-![image du poche en 3D](../medias/boats_top_view.png)
+![image du poche en 3D](../medias/boats_top_view.png)                  
 Image des bateaux vue de haut.
 
 Le système fait réapparaître les ennemis après un certain délai après leur destruction et s'auto-détruit dans le cas rare où les bateaux apparaissent l'un par-dessus l'autre.
