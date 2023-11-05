@@ -36,3 +36,8 @@ J'ai également ajusté le système de calibration du monde pour prendre en char
 J'ai écrit des fonctions préliminaires pour gérer la vie du joueur et des ennemis, en préparation pour coder le système de visée du joueur avec les canons que Nicolas a terminé de modéliser et de texturer.
 
 J'ai également aider Myrianne à coder le système de son préliminaire, et l'implémenter dans le jeu.
+
+
+##Jacob
+
+Cette semaine, j'ai collaboré sur le projet sur le côté de l'organisation. J'ai libelled le trello et j'ai checker sur ce quoi faisait l'équipe et assigné un job. J'ai majoritairement travaillé sur le son durant cette semaine. J'ai fait une tonne de recherche sur des sites avec des sons libre de droit comme Pixabay, freesounds, Upbeat et autres. J'ai remixé 15 sons par moi-même avec Audition. J'ai aussi créer le fichier de Gestionnaire de sons et intégré du code et par la suite, Myrianne et Mathieu se sont occupés de le modifier pour qu'il marche selon des fonctions précises.
