@@ -41,3 +41,6 @@ J'ai également aider Myrianne à coder le système de son préliminaire, et l'i
 ##Jacob
 
 Cette semaine, j'ai collaboré sur le projet sur le côté de l'organisation. J'ai libelled le trello et j'ai checker sur ce quoi faisait l'équipe et assigné un job. J'ai majoritairement travaillé sur le son durant cette semaine. J'ai fait une tonne de recherche sur des sites avec des sons libre de droit comme Pixabay, freesounds, Upbeat et autres. J'ai remixé 15 sons par moi-même avec Audition. J'ai aussi créer le fichier de Gestionnaire de sons et intégré du code et par la suite, Myrianne et Mathieu se sont occupés de le modifier pour qu'il marche selon des fonctions précises.
+
+##Alex 
+Cette semaine, j'ai créer une courte video pour nos réseaux sociaux. Elle présente vite fait l'équipe qui travaille et notre logo animée. Elle me permettra aussi de l'uttiliser pour des plans dans la vidéo de présentations. J'ai aussi texturé plusieurs props. quelques problème son survenue avec le barrie. Il y a fallu que je passe plus de temps que prévue. Les autres props comme les couvertes et le coffres n'ont pas eux de problème.
