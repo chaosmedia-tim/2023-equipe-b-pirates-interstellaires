@@ -22,6 +22,9 @@ nous avons réorganiser les tache et j'ai ajoutée les objet a la scène Unity.
 ![image du poche en 3D](../medias/props_unity.png)
 Objet mise sur le bateau.
 
+J'ai regarder un tutoriel pour pouvoir faire un composant pour l'audio du jeu. pour aider Mathieu avec la programmation.
+Tutoriel que Mathieu ma proposé: https://www.youtube.com/watch?v=6OT43pvUyfY
+
 ##Mathieu
 
 Cette semaine, j'ai finalisé le système d'apparition des ennemis ainsi que leur mode de déplacement. Le système est assez flexible et permet de changer facilement le nombre d'ennemis. Il se compose de trois anneaux contenant plusieurs points d'apparition, orbite autour du bateau du joueur.
