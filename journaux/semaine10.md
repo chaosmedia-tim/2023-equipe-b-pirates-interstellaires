@@ -1,4 +1,4 @@
-##Mathieu
+![canon_screenshot](https://github.com/chaosmedia-tim/2023-equipe-b-pirates-interstellaires/assets/90794724/bfc9d191-7565-40c8-9a6e-840847b6c03b)##Mathieu
 
 Cette semaine, j'ai finalisé le système d'apparition des ennemis ainsi que leur mode de déplacement. Le système est assez flexible et permet de changer facilement le nombre d'ennemis. Il se compose de trois anneaux contenant plusieurs points d'apparition, orbite autour du bateau du joueur.
 
@@ -12,3 +12,7 @@ J'ai également ajusté le système de calibration du monde pour prendre en char
 J'ai écrit des fonctions préliminaires pour gérer la vie du joueur et des ennemis, en préparation pour coder le système de visée du joueur avec les canons que Nicolas a terminé de modéliser et de texturer.
 
 J'ai également aider Myrianne à coder le système de son préliminaire, et l'implémenter dans le jeu.
+
+##Nicolas
+
+Cette semaine, j'ai fini de modélisé les canons et j'ai fait leur textures dans substance painter.
