@@ -1,4 +1,4 @@
-![canon_screenshot](https://github.com/chaosmedia-tim/2023-equipe-b-pirates-interstellaires/assets/90794724/bfc9d191-7565-40c8-9a6e-840847b6c03b)##Mathieu
+##Mathieu
 
 Cette semaine, j'ai finalisé le système d'apparition des ennemis ainsi que leur mode de déplacement. Le système est assez flexible et permet de changer facilement le nombre d'ennemis. Il se compose de trois anneaux contenant plusieurs points d'apparition, orbite autour du bateau du joueur.
 
