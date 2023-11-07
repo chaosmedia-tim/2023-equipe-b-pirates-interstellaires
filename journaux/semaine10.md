@@ -15,7 +15,7 @@ J'ai également aider Myrianne à coder le système de son préliminaire, et l'i
 
 ##Nicolas
 
-Cette semaine, j'ai fini de modélisé les canons et j'ai fait leur textures dans substance painter.
+Cette semaine, j'ai fini de modélisé les canons et j'ai fait leur textures dans substance painter. Le seul problème que j'ai renconté avec la texture des canons est qu'il y avait des bandes noir sur les cotés des faces du canon. J'ai résolu ce problème en simplement refaisant les textures de cette parti du canon.
 
 ![image du canon](../medias/canon_screenshot.jpg)  
 
