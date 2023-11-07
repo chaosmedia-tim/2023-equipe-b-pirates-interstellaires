@@ -17,6 +17,8 @@ J'ai également aider Myrianne à coder le système de son préliminaire, et l'i
 
 Cette semaine, j'ai fini de modélisé les canons et j'ai fait leur textures dans substance painter.
 
+![image du canon](../medias/canon_screenshot.jpg)  
+
 
 ##Alex 
 
