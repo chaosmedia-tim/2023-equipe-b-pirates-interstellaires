@@ -16,3 +16,8 @@ J'ai également aider Myrianne à coder le système de son préliminaire, et l'i
 ##Nicolas
 
 Cette semaine, j'ai fini de modélisé les canons et j'ai fait leur textures dans substance painter.
+
+
+##Alex 
+
+Cette semaine, j'ai texturé plusieurs props. quelques problème son survenue avec le barrie. Il y a fallu que je passe plus de temps que prévue. Les autres props comme les couvertes et le coffres n'ont pas eux de problème. Le texturing à été une épreuve pour moi car je n'avais jamais vraiment uttilisé Substance Painter. J'ai aussi Travaillé sur l'entièreté du making of. Je suis quand même assez habile avec After Effect donc il n'y pas trop eu de problème.
