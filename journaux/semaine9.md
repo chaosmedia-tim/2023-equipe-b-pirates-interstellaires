@@ -35,4 +35,4 @@ Cette semaine, j'ai collaboré sur le projet sur le côté de l'organisation. J'
 
 ##Alex 
 
-Cette semaine, j'ai créer une courte video pour nos réseaux sociaux. Elle présente vite fait l'équipe qui travaille et notre logo animée. J'ai passé une grande partie de mon temps à l'animations du logo. La courte video me permettra aussi de l'uttiliser pour des plans dans la vidéo de présentations. J'ai aussi texturé plusieurs props. quelques problème son survenue avec le barrie. Il y a fallu que je passe plus de temps que prévue. Les autres props comme les couvertes et le coffres n'ont pas eux de problème.
+Cette semaine, j'ai créer une animation pour notre logo sur After Effect. Je pense qu'elle va bien avec le thème de notre projet. J'ai aussi créer une courte video pour nos réseaux sociaux. Elle présente vite fait l'équipe qui travaille. J'ai passé une grande partie de mon temps à l'animations du logo. La courte video me permettra aussi de l'uttiliser pour des plans dans la vidéo de présentations. 
