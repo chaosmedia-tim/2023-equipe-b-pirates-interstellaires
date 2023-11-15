@@ -3,3 +3,6 @@ j'ai commencer les bannières sur figma mais, je dois attendre le résultat fina
 inscrit les role de chaqu'un. 
 j'ai ensuite faite le plan pour la réalisation de l'installation.
 
+##Nicolas
+Cette semaine, j'ai fait les textures des bateaux des ennemies.
+
