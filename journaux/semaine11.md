@@ -8,6 +8,14 @@ j'ai demandé a mon père si mon plan étais bon pour avoir des murs solide. Mal
 
 Durant la grève j'ai sablé et peinturé le bois et j'ai prévu la date du transport.
 
+![image du premier plan des murs](../medias/plan_murs.png)
+![image du premier plan pour les pattes](../medias/plan_patte.png)
+![image des matériaux](../medias/matériaux_murs.png)
+
+![image de l'assemblage du premier murs](../medias/murs1.png)
+![image du premier murs](../medias/murs2.png)
+![image du deuxième murs ](../medias/murs3.png)
+![image des tablettes](../medias/murs4.png)
 
 ## Nicolas
 Cette semaine, j'ai "Unrwrap" le modèle du bateau des ennemies et j'ai fait les textures de celui-ci.
