@@ -22,3 +22,5 @@ Cette semaine, j'ai "Unrwrap" le modèle du bateau des ennemies et j'ai fait les
 
 ![image de l'unwraping du bateau](../medias/Progress_Unwraping.PNG)
 ![image du texturing du bateau](../medias/Progress.png)
+
+## Jacob Cette semaine j'ai participé à l'intégration de nouvelles méchaniques dans le jeu, préparer le document pour les tests utilisateurs, encore beaucoup de commentaires pour améliorer la qualité de jeu. Correction de la musique pour qu'elle fade in et out pour de la fluidité lors de la boucle et intégration d'un son d'apparition fait dans Audition.
