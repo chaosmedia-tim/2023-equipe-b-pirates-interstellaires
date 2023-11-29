@@ -15,3 +15,6 @@ lien vers le tutoriel de Brackeys sur Youtube : https://www.youtube.com/watch?v=
 
 ##Jacob
 Cette semaine, j'ai corrigé le niveau sonore de mes sons, j'ai écris un document de 45 risques pour prévenir les tests utilisateurs. Aussi faite beaucoup de rétroactions et de check-ups sur le travail de l'équipe. Contrôle du Trello ainsi que de la direction artistique et technique du jeu.
+
+##Mathieu
+Cette semaine, j'ai amélioré le système de canon et ajouté les modèles 3D des canons dans Unity. Les canons sont contrôlés avec la manette droite, et l'interaction du joueur se fera avec le hand tracking. En parlant du hand tracking, j'ai commencé à l'implémenter dans Unity. Il fonctionne bien, à l'exception du fait que je pensais que l'ultraleap était sans fil. J'ai effectué quelques tests avec un USB sans fil connecté au casque, mais j'ai rencontré des problèmes de connexion. Je vais continuer à essayer la semaine prochaine.
