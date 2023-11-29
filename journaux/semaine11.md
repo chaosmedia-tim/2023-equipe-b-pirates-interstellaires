@@ -25,3 +25,6 @@ Cette semaine, j'ai "Unrwrap" le modèle du bateau des ennemies et j'ai fait les
 
 ## Jacob 
 Cette semaine j'ai participé à l'intégration de nouvelles méchaniques dans le jeu, préparer le document pour les tests utilisateurs, encore beaucoup de commentaires pour améliorer la qualité de jeu. Correction de la musique pour qu'elle fade in et out pour de la fluidité lors de la boucle et intégration d'un son d'apparition fait dans Audition.
+
+##Mathieu
+Cette semaine, j'ai finalement décidé de convertir le projet en utilisant un casque filaire, en raison du fait que le Leap Motion ne fonctionne pas très bien sans fil. Cela présente ses avantages, car les problèmes liés aux batteries sont évités. Il faudra désormais gérer un câble à la place. En ce qui concerne la programmation, j'ai ajouté le système d'astéroïdes infini, ainsi que refactorisé mon code à plusieurs endroits pour me préparer à intégrer le système de ronde. Ensuite, j'ai intégré le système de ronde, ainsi que la vue radar à l'aide d'un shader holographique. J'ai affiché les informations sur un menu UI et dans le monde VR, et j'ai finalement corrigé quelques bugs. Le volant a également été testé pour s'assurer qu'il fonctionne avec Unity.
