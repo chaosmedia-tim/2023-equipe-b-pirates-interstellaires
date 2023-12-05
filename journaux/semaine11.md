@@ -28,3 +28,6 @@ Cette semaine j'ai participé à l'intégration de nouvelles méchaniques dans l
 
 ## Mathieu
 Cette semaine, j'ai finalement décidé de convertir le projet en utilisant un casque filaire, en raison du fait que le Leap Motion ne fonctionne pas très bien sans fil. Cela présente ses avantages, car les problèmes liés aux batteries sont évités. Il faudra désormais gérer un câble à la place. En ce qui concerne la programmation, j'ai ajouté le système d'astéroïdes infini, ainsi que refactorisé mon code à plusieurs endroits pour me préparer à intégrer le système de ronde. Ensuite, j'ai intégré le système de ronde, ainsi que la vue radar à l'aide d'un shader holographique. J'ai affiché les informations sur un menu UI et dans le monde VR, et j'ai finalement corrigé quelques bugs. Le volant a également été testé pour s'assurer qu'il fonctionne avec Unity.
+
+## Alex 
+Cette semaine, j'ai continué les réseaux sociaux. J'ai aussi commencé la recherche pour l'affiche. J'ai aussi aidée mathieu a intégrer mes textures sur les props du bateau dans unity.
