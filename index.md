@@ -18,3 +18,5 @@ Le jeux Pirates interstellaires est un jeu vr avec deux joueurs dans deux espace
 [Semaine 11](journaux/semaine11.md)
 
 [Semaine 12](journaux/semaine12.md)
+
+[Semaine 13](journaux/semaine13.md)
